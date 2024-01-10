@@ -36,7 +36,7 @@ This command will clean the files and folders in the current working directory.
 
 ## Requirements
 
-- [Node.js]("https://nodejs.org/en)
+- [Node.js](https://nodejs.org/en "Node.js official website")
 
 ## Contributing
 
@@ -44,7 +44,7 @@ Feel free to contribute to this project. Fork and create a pull request with any
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]("LICENSE") file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Note
 
