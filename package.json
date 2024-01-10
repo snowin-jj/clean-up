@@ -1,7 +1,8 @@
 {
-  "name": "@snowin/cleanup",
-  "version": "0.0.2",
-  "description": "Simple CLI to clean up the temp and unwanted file in periodically",
+  "name": "cleanup-cli",
+  "displayName": "cleanup",
+  "version": "0.0.1",
+  "description": "A lightweight CLI tool for cleaning unwanted folders and files.",
   "main": "src/index.js",
   "type": "module",
   "bin": {
