@@ -1,0 +1,19 @@
+{
+  "name": "cleanup",
+  "version": "0.0.1",
+  "description": "Simple CLI to clean up the temp and unwanted file in periodically",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "cleanup": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Snowin",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
