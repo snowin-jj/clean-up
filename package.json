@@ -10,7 +10,17 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "clean disk",
+    "optimize sytem",
+    "delete folders",
+    "files",
+    "folders"
+  ],
+  "repository": {
+    "url": "https://github.com/snowin-jj/clean-up"
+  },
   "author": "Snowin",
   "license": "MIT",
   "dependencies": {
