@@ -51,3 +51,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Replace placeholders such as `[folders...]`, `/path/to/folder1`, `/path/to/folder2`, `cleanup-cli`, and `LICENSE` with your actual details. Ensure that you have a `LICENSE` file in your project directory with the appropriate license text.
 
 Include any additional information or features specific to your package in the README. This template provides a starting point, and you can tailor it to better fit the structure and functionality of your project.
+
+## TODO
+
+[ ] - Convert ja to ts
