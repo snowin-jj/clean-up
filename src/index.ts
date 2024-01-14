@@ -6,7 +6,7 @@ import clean from "./functions/clean";
 program
   .name("cleanup")
   .description("Tiny cli helps to clean then unwanted folders and files")
-  .version("0.0.2");
+  .version("0.0.3");
 
 program
   .command("start")

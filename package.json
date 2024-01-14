@@ -1,7 +1,7 @@
 {
   "name": "cleanup-cli",
   "displayName": "cleanup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A lightweight CLI tool for cleaning unwanted folders and files.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
