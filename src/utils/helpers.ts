@@ -12,7 +12,7 @@ import path from "node:path";
  * @param {string} folderPath - path of the folder to delete.
  * @returns {Count} fileCount, folderCount
  */
-export function deleteFolderRecursive(folderPath) {
+export function deleteFolderRecursive(folderPath: string) {
   let fileCount = 0;
   let folderCount = 0;
 

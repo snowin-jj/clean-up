@@ -54,4 +54,4 @@ Include any additional information or features specific to your package in the R
 
 ## TODO
 
-[ ] - Convert ja to ts
+- [x] Convert to typescript

@@ -11,7 +11,7 @@ import { deleteFolderRecursive } from "../utils/helpers.js";
  * // return void
  * clean(["downloads", "documents/temp", "pictures/temp"]);
  */
-export default function clean(foldersToTrash) {
+export default function clean(foldersToTrash: string[]) {
   const filesAndfoldersNotToTrash = ["setups", "desktop.ini"];
   let cleanedFileCount = 0;
   let cleanedFolderCount = 0;
@@ -62,6 +62,7 @@ export default function clean(foldersToTrash) {
       `✅ Cleaned ${cleanedFileCount} files and ${cleanedFolderCount} folders!`
     );
   } catch (error) {
-    console.error("❌ Error: ", error.message);
+    const e = error as Error;
+    console.error("❌ Error: ", e.message);
   }
 }
